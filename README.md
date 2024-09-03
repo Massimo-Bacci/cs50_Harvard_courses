@@ -1,3 +1,2 @@
-# cs50_Harvard_courses
-Introduction to Artificial Intelligence with Python
-ciao
+# cs50 Harvard's course: Introduction to Artificial Intelligence with Python
+Here you can find all the different projects I have realised for the the course on edx. For further information, be sure to check [Harvard's education site](https://cs50.harvard.edu/ai/2020/). You can find every project's statement there.
